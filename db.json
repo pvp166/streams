@@ -1,0 +1,64 @@
+{
+  "streams": [
+    {
+      "title": "Streams",
+      "description": "My Streams",
+      "id": 1
+    },
+    {
+      "title": "Streams",
+      "description": "My Streams",
+      "id": 2
+    },
+    {
+      "title": "Streams",
+      "description": "My Streams",
+      "id": 3
+    },
+    {
+      "title": "LoL",
+      "description": "Lol Streams",
+      "id": 4
+    },
+    {
+      "title": "!Create This Stream",
+      "description": "This was made by me ok",
+      "id": 5
+    },
+    {
+      "title": "something",
+      "description": "lol",
+      "id": 6
+    },
+    {
+      "title": "ber",
+      "description": "btret",
+      "id": 7
+    },
+    {
+      "title": "ber",
+      "description": "btret",
+      "id": 8
+    },
+    {
+      "title": "somthing",
+      "description": "blahblah",
+      "id": 9
+    },
+    {
+      "title": "teh",
+      "description": "rwer",
+      "id": 10
+    },
+    {
+      "title": "somyhing",
+      "description": "wfwefew",
+      "id": 11
+    },
+    {
+      "title": "lol",
+      "description": "loll",
+      "id": 12
+    }
+  ]
+}
